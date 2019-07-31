@@ -1,0 +1,3 @@
+VANTA.BIRDS({
+    el: "#vantajs"
+  })
